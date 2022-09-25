@@ -13,25 +13,25 @@
 
 									<div class="widget clearfix">
 
-										<img src="images/ventura-bg.png" alt="Image" class="footer-logo">
+										<img src="images/logo-nbg.png" alt="Image" class="footer-logo">
 
 									</div>
 
 								</div>
                                 <div class="col-md-4">
-                                    <br>
-                                
-                                
+
                                 <div style="background: url('images/world-map.png') no-repeat center center; background-size: 100%;">
 											<address>
-												<strong>Office Address:</strong><br>
-												3F6, Treshold Business Suites,<br>
-												976, Olusegun Obasanjo Way,<br>
-                                                Wuye District, Abuja, FCT.
+												<strong>Abuja Office Address:</strong><br>
+												Rioh-Veritas Lodge<br>
+												Plot 5 Extended M. Nwosu Street<br>
+                                                Adjacent Veritas University<br>
+												Bwari, FCT, Abuja, Nigeria
 											</address>
-											<abbr title="Phone Number"><i class="icon-phone"></i></abbr> +234(0)70 1870 5035<br>
-											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +234(0)80 3255 5881<br>
-											<abbr title="Email Address"><i class="icon-envelope"></i></abbr> info@ventura.ng
+											<abbr title="Phone Number"><i class="icon-phone"></i></abbr> +234-905-549-3442<br>
+											<abbr title="WhatsApp"><i class="icon-whatsapp"></i></abbr> +234-806-280-4260<br>
+											
+											<abbr title="Email Address"><i class="icon-envelope"></i></abbr>connect@riohveritas.com 
 										</div>
 									
 
@@ -48,8 +48,8 @@
 											<li><a href="about.php">About us</a></li>
 											<li><a href="#">Gallery</a></li>
 											<li><a href="#">News</a></li>
-											<li><a href="programmes.php">Our Programmes</a></li>
-											<li><a href="services.php">Our Services</a></li>
+											<li><a href="export.php">RiohVeritas Exports</a></li>
+											
 											<li><a href="#">Our Team</a></li>
 										</ul>
 
@@ -70,13 +70,13 @@
 
 										<div class="row">
 											<div class="col-lg-4 bottommargin-sm">
-												<div class="counter counter-small"><span data-from="0" data-to="800" data-refresh-interval="80" data-speed="1000" data-comma="true"></span>+</div>
-												<h5 class="mb-0">F<span class="sml">IN</span>CAP &#153; Trainees</h5>
+												<div class="counter counter-small"><span data-from="0" data-to="2000" data-refresh-interval="80" data-speed="1000" data-comma="true"></span>+</div>
+												<h5 class="mb-0">Happy Customers</h5>
 											</div>
 
 											<div class="col-lg-4 bottommargin-sm">
-												<div class="counter counter-small"><span data-from="0" data-to="78" data-refresh-interval="50" data-speed="700" data-comma="true"></span></div>
-												<h5 class="mb-0">LGAS</h5>
+												<div class="counter counter-small"><span data-from="0" data-to="12" data-refresh-interval="50" data-speed="700" data-comma="true"></span></div>
+												<h5 class="mb-0">COUNTRIES</h5>
 											</div>
 
                                             <div class="col-lg-4 bottommargin-sm">
@@ -130,7 +130,7 @@
 					<div class="row col-mb-30">
 
 						<div class="col-md-6 text-center text-md-left">
-							Copyrights &copy; 2020 All Rights Reserved by Ventura Associates Limited<br>
+							Copyrights &copy; 2022 Ninafrost Web Services<br>
 							<!--<div class="copyright-links"><a href="#">Terms of Use</a> / <a href="#">Privacy Policy</a></div>-->
 						</div>
 
@@ -152,25 +152,12 @@
                                 <a href="#" class="social-icon si-small si-borderless si-instagram">
 									<i class="icon-instagram"></i>
 									<i class="icon-instagram"></i>
-								</a>
-
-
-								<a href="#" class="social-icon si-small si-borderless si-pinterest">
-									<i class="icon-pinterest"></i>
-									<i class="icon-pinterest"></i>
-								</a>
-
-								<a href="#" class="social-icon si-small si-borderless si-vimeo">
-									<i class="icon-vimeo"></i>
-									<i class="icon-vimeo"></i>
-								</a>
-
-								
+								</a>	
 							</div>
 
 							<div class="clear"></div>
 
-							<i class="icon-envelope2"></i> info@ventura.ng <span class="middot">&middot;</span> <i class="icon-headphones"></i> +234(0)80 3255 5881, +234(0)70 1870 5035<span class="middot">&middot;</span> <i class="icon-skype2"></i> VenturaOnSkype
+							<i class="icon-envelope2"></i> connect@riohveritas.com <span class="middot">&middot;</span> <i class="icon-headphones"></i> +234-905-549-3442, +234-806-280-4260 <span class="middot">&middot;</span> <i class="icon-skype2"></i> RiohveritasOnSkype
 						</div>
 
 					</div>

@@ -53,6 +53,13 @@
                         
                     </a>
                 </div>
+				<div class="slider-wrap">
+			    <div class="slide" data-thumb="images/lab1.JPG">
+                    <a href="#" class="d-block position-relative">
+                        <img src="images/lab1.JPG" alt="Slide 1">
+                        
+                    </a>
+                </div>
                 <div class="slide" data-thumb="images/slide2.JPG">
                     <a href="#" class="d-block position-relative">
                         <img src="images/slide2.JPG" alt="Slide 2">
@@ -83,13 +90,12 @@
 				<div class="row grid-container" data-layout="masonry" style="overflow: visible"> 
 				<div class="col-lg-4 mb-4">
 							<div class="flip-card text-center top-to-bottom">
-								<div class="flip-card-front dark" style="background-image: url('images/finance.jpg');">
+								<div class="flip-card-front dark" style="background-image: url('images/riohex.jpg');">
 									<div class="flip-card-inner">
 										<div class="card bg-transparent border-0 text-center">
 											<div class="card-body">
-												<h3 class="card-title">F<span class="sml">IN</span>CAP &#153;</h3>
-												<p class="card-text font-weight-normal"> Designed to upscale the financial competence of SMEs and
-												transform them into investment vehicles</p>
+												<h3 class="card-title">RiohVeritas Exports</h3>
+												<p class="card-text font-weight-normal"> Specialized in the export delivery of top African Agro-based, organic foods and manufactured products to countries all over the world.</p>
 											</div>
 										</div>
 									</div>
@@ -97,19 +103,19 @@
 								<div class="flip-card-back bg-danger no-after" >
 									<div class="flip-card-inner">
 										
-									<a href="programmes.php#snav-content1"><button type="button" class="btn btn-outline-light mt-2">Learn more</button></a>
+									<a href="export.php"><button type="button" class="btn btn-outline-light mt-2">Learn more</button></a>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 mb-4">
 							<div class="flip-card text-center top-to-bottom">
-								<div class="flip-card-front dark" style="background-image: url('demos/business/images/featured/2.jpg');">
+								<div class="flip-card-front dark" style="background-image: url('images/lab2.png');">
 									<div class="flip-card-inner">
 										<div class="card bg-transparent border-0 text-center">
 											<div class="card-body">
-												<h3 class="card-title">BizLAB &#153;</h3>
-												<p class="card-text font-weight-normal">A programme designed to equip final year (graduating) students of Nigerian Universities</p>
+												<h3 class="card-title">Laboratoy Equipment</h3>
+												<p class="card-text font-weight-normal">Equiping Laboratories and enhancing research</p>
 											</div>
 										</div>
 									</div>
@@ -117,19 +123,19 @@
 								<div class="flip-card-back bg-danger no-after" >
 									<div class="flip-card-inner">
 										
-									<a href="programmes.php#snav-content2"><button type="button" class="btn btn-outline-light mt-2">Learn more</button></a>
+									<a href="#"><button type="button" class="btn btn-outline-light mt-2">Learn more</button></a>
 									</div>
 								</div>
 							</div>
 						</div>
 						<div class="col-lg-4 mb-4">
 							<div class="flip-card text-center top-to-bottom">
-								<div class="flip-card-front dark" style="background-image: url('images/academy.jpg');">
+								<div class="flip-card-front dark" style="background-image: url('images/home.JPG');">
 									<div class="flip-card-inner">
 										<div class="card bg-transparent border-0 text-center">
 											<div class="card-body">
-												<h3 class="card-title">Ventura Academy</h3>
-												<p class="card-text font-weight-normal">At Ventura, we focus on the outcome of learning rather than the learning activity.</p>
+												<h3 class="card-title">RiohVeritas Homes and Properties</h3>
+												<p class="card-text font-weight-normal">Helping you own your dream home</p>
 											</div>
 										</div>
 									</div>
@@ -137,7 +143,7 @@
 								<div class="flip-card-back bg-danger no-after" >
 									<div class="flip-card-inner">
 										
-										<a href="programmes.php#snav-content3"><button type="button" class="btn btn-outline-light mt-2">Learn more</button></a>
+										<a href="#"><button type="button" class="btn btn-outline-light mt-2">Learn more</button></a>
 									</div>
 								</div>
 							</div>
@@ -152,22 +158,16 @@
 					<div class="container clearfix">
 
 						<div class="row col-mb-50">
-							<div class="col-sm-6 col-lg-3 text-center" data-animate="bounceIn">
+							<div class="col-sm-12 col-lg-4 text-center" data-animate="bounceIn">
 								<i class="i-plain i-xlarge mx-auto mb-0 icon-code"></i>
-								<div class="counter counter-lined"><span data-from="0" data-to="800" data-refresh-interval="50" data-speed="1500"></span>K+</div>
-								<p>F<span class="sml">IN</span>C<span class="sml">AP</span> &#153; TRAINEES</p>
+								<div class="counter counter-lined"><span data-from="0" data-to="2000" data-refresh-interval="50" data-speed="1500"></span>+</div>
+								<p>Happy Customers</p>
 							</div>
 
-							<div class="col-sm-6 col-lg-3 text-center" data-animate="bounceIn" data-delay="200">
-								<i class="i-plain i-xlarge mx-auto mb-0 icon-magic"></i>
-								<div class="counter counter-lined"><span data-from="0" data-to="78" data-refresh-interval="50" data-speed="1500"></span>+</div>
-								<p>LGAs</p>
-							</div>
-
-							<div class="col-sm-6 col-lg-3 text-center" data-animate="bounceIn" data-delay="400">
+							<div class="col-sm-12 col-lg-4 text-center" data-animate="bounceIn" data-delay="400">
 								<i class="i-plain i-xlarge mx-auto mb-0 icon-file-text"></i>
-								<div class="counter counter-lined"><span data-from="0" data-to="6" data-refresh-interval="25" data-speed="1500"></span></div>
-								<p>STATES</p>
+								<div class="counter counter-lined"><span data-from="0" data-to="12" data-refresh-interval="25" data-speed="1500"></span></div>
+								<p>COUNTRIES</p>
 							</div>
 
 							<div class="col-sm-6 col-lg-3 text-center" data-animate="bounceIn" data-delay="600">
@@ -185,7 +185,7 @@
 						<div class="row align-items-center">
 							<div class="col-12 col-lg">
 								<h3>Request a Consultation</h3>
-								<span>Need more information on access to finance initiatives?</span>
+								<span>Need more information on our services?</span>
 							</div>
 							<div class="col-12 col-lg-auto mt-4 mt-lg-0">
 								<a href="#" class="button button-border button-light button-rounded m-0">Contact Us</a>
@@ -242,14 +242,14 @@
 									<div class="entry col-md-6">
 										<div class="grid-inner">
 											<div class="entry-image">
-												<a href="#"><img src="images/news/agri3.jpg" alt="Image"></a>
+												<a href="#"><img src="images/news/exportnews.jpg" alt="Image"></a>
 											</div>
 											<div class="entry-title title-sm nott">
-												<h3><a href="#">Ventura and NALDA partner on small hoher farmer education</a></h3>
+												<h3><a href="#">Nigeria Makes an Excess of $890m In Non-oil Exports</a></h3>
 											</div>
 											<div class="entry-meta">
 												<ul>
-													<li><i class="icon-calendar3"></i> 10th Feb 2022</li>
+													<li><i class="icon-calendar3"></i>10th Sept 2022</li>
 										
 												</ul>
 											</div>
@@ -262,14 +262,14 @@
 									<div class="entry col-md-6">
 										<div class="grid-inner">
 											<div class="entry-image">
-												<a href="#"><img src="images/news/office.jpeg" alt="Image"></a>
+												<a href="#"><img src="images/news/nexim2.png" alt="Image"></a>
 											</div>
 											<div class="entry-title title-sm nott">
-												<h3><a href="#">Ventura Associates launches state of the art training center at Abuja, Nigeria</a></h3>
+												<h3><a href="#">NEXIM launches direct lending facility</a></h3>
 											</div>
 											<div class="entry-meta">
 												<ul>
-													<li><i class="icon-calendar3"></i> 10th Feb 2021</li>
+													<li><i class="icon-calendar3"></i> 4th Sept 2022</li>
 													
 												</ul>
 											</div>
@@ -282,7 +282,7 @@
 							</div>
 
 							<div class="col-lg-4">
-								<div class="fancy-title title-border">
+								<!--<div class="fancy-title title-border">
 									<h4>Client Testimonials</h4>
 								</div>
 
@@ -327,7 +327,7 @@
 											</div>
 										</div>
 									</div>
-								</div>
+								</div>-->
 
 								<div class="card topmargin overflow-hidden">
 									<div class="card-body">
@@ -347,9 +347,9 @@
 							</div>
 						</div>
 
-						</div>
+					</div>
 
-						<div class="section mb-0">
+					<div class="section mb-0">
 						<div class="container clearfix">
 
 							<div class="heading-block center">
@@ -372,88 +372,10 @@
 							</div>
 
 						</div>
-						</div>
+					</div>
 
 				<!--news area ends-->
 
-
-
-
-		 <section id="content">
-			<div class="content-wrap">
-				<div class="container clearfix">
-						
-					<div class="title-block">
-						<h3>Thematic Areas</h3>
-						<span>Our services cover the following broad areas:</span>
-					</div>
-					<div class="row justify-content-center col-mb-50">
-							<div class="col-sm-6 col-lg-3">
-								<div class="feature-box fbox-sm fbox-plain" data-animate="fadeIn">
-									<div class="fbox-icon">
-										<a href="#"><i class="icon-users"></i></a>
-									</div>
-									<div class="fbox-content">
-										<h3>SME Development</h3>
-										<div data-readmore="true" data-readmore-trigger-open="Read More <i class='icon-angle-down'></i>" data-readmore-trigger-close="Read Less <i class='icon-angle-up'></i>">
-										<p style="font-size:14px; text-align:justify;">Small business are the engine of economic growth. They constitute a higher number of business and provide the most jobs. They are, in effect, a gateway out of poverty. However, they face significant challenges in developing countries. We adapt solutions to assist SMEs connect to formal business systems encompassing policy and regulation, finance, business competencies and markets.</p>
-										<a href="#" class="btn btn-link text-primary read-more-trigger read-more-trigger-center"></a>
-										</div>
-									</div>
-								</div>
-							</div>
-							<div class="col-sm-6 col-lg-3">
-								<div class="feature-box fbox-sm fbox-plain" data-animate="fadeIn" data-delay="200">
-									<div class="fbox-icon">
-										<a href="#"><i class="icon-money"></i></a>
-									</div>
-									<div class="fbox-content">
-										<h3>Financial Literacy</h3>
-										<div data-readmore="true" data-readmore-trigger-open="Read More <i class='icon-angle-down'></i>" data-readmore-trigger-close="Read Less <i class='icon-angle-up'></i>">
-										<p style="font-size:14px; text-align:justify;">Understanding the basics of the financial system is critical to social and economic advancement. Businesses and individuals need to be able to distinguish genuine financial products from exploitative ones. This is becoming increasing more difficult to do as traditional and modern finance converge. Our trainings equip participants with skills in business finance and simplify inherent complexities so that participants and better prepared to leverage the financial system.</p>
-										<a href="#" class="btn btn-link text-primary read-more-trigger read-more-trigger-center"></a>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-sm-6 col-lg-3">
-								<div class="feature-box fbox-sm fbox-plain" data-animate="fadeIn" data-delay="400">
-									<div class="fbox-icon">
-										<a href="#"><i class="icon-landmark"></i></a>
-									</div>
-									<div class="fbox-content">
-										<h3>Access to Finance</h3>
-										<div data-readmore="true" data-readmore-trigger-open="Read More <i class='icon-angle-down'></i>" data-readmore-trigger-close="Read Less <i class='icon-angle-up'></i>">
-										<p style="font-size:14px; text-align:justify;">Capital mobilisation is strategic to business growth. Despite numerous grants and credit facilities available in the financial system, as well as other support providers, SMEs typically struggle to access financing. A major obstacle is understanding the requirements for these facilities and positioning for them. We groom SMEs to understand the fundamentals requirements of providers of finance so that they can align their businesses and take advantage of grants and credit facilities.</p>
-										<a href="#" class="btn btn-link text-primary read-more-trigger read-more-trigger-center"></a>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							<div class="col-sm-6 col-lg-3">
-								<div class="feature-box fbox-sm fbox-plain" data-animate="fadeIn" data-delay="600">
-									<div class="fbox-icon">
-										<a href="#"><i class="icon-graph"></i></a>
-									</div>
-									<div class="fbox-content">
-										<h3>Finance Skills</h3>
-										<div data-readmore="true" data-readmore-trigger-open="Read More <i class='icon-angle-down'></i>" data-readmore-trigger-close="Read Less <i class='icon-angle-up'></i>">
-										<p style="font-size:14px; text-align:justify;">Upwardly mobile SMEs need advanced financial skills to drive their business trajectory. Young and mid-career professionals also have to keep up with advancements in finance as they affect business. Whether its business planning, financial modelling or accounting software, finance skills are indispensable to growing businesses. At Ventura, we provide support that enables SMEs keep up to date their finance skills and apply them in day-to-day business management.</p>
-										<a href="#" class="btn btn-link text-primary read-more-trigger read-more-trigger-center"></a>
-										</div>
-									</div>
-								</div>
-							</div>
-
-							
-						</div>
-
-
-				</div>
-			</div>
-		</section><!-- #content end -->
 
 		<!-- Footer
 		============================================= -->

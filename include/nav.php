@@ -52,7 +52,7 @@
 							<li><a href="#" class="si-facebook"><span class="ts-icon"><i class="icon-facebook"></i></span><span class="ts-text">Facebook</span></a></li>
 							<li><a href="#" class="si-twitter"><span class="ts-icon"><i class="icon-twitter"></i></span><span class="ts-text">Twitter</span></a></li>
 							<li><a href="#" class="si-instagram"><span class="ts-icon"><i class="icon-instagram2"></i></span><span class="ts-text">Instagram</span></a></li>
-							<li><a href="tel:+234-905-549-3442" class="si-call"><span class="ts-icon"></span><span class="ts-text">+2349055493442</span></a></li>
+							<li><a href="tel:+234-905-549-3442" class="si-call"><span class="ts-icon"><i class="icon-phone"></i></span><span class="ts-text">+2349055493442</span></a></li>
 							<li><a href="mailto:info@canvas.com" class="si-email3"><span class="ts-icon"><i class="icon-email3"></i></span><span class="ts-text">connect@riohveritas.com</span></a></li>
 						</ul><!-- #top-social end -->
 
@@ -89,7 +89,7 @@
 							<li>
 								<i class="i-plain icon-call m-0"></i>
 								<div class="he-text">
-									Get in Touch
+									Get in Touch(WhatsApp)
 									<span>+234-905-549-3442</span>
 								</div>
 							</li>
