@@ -6,7 +6,7 @@
 	include("include/header.php");
 	?>
    
-<title>Home | VENTURA ASSOCIATES</title>
+<title>Home | RIOH-VERITAS</title>
 
 </head>
 
@@ -171,7 +171,7 @@
 							</div>
 
 							<div class="col-sm-6 col-lg-3 text-center" data-animate="bounceIn" data-delay="600">
-								<i class="i-plain i-xlarge mx-auto mb-0 icon-time"></i>
+								<i class="i-plain i-xlarge mx-auto mb-0 icon-handshake"></i>
 								<div class="counter counter-lined"><span data-from="0" data-to="20" data-refresh-interval="30" data-speed="1500"></span>+</div>
 								<P>PARTNERSHIPS</P>
 							</div>
@@ -188,45 +188,13 @@
 								<span>Need more information on our services?</span>
 							</div>
 							<div class="col-12 col-lg-auto mt-4 mt-lg-0">
-								<a href="#" class="button button-border button-light button-rounded m-0">Contact Us</a>
+								<a href="contact.php" class="button button-border button-light button-rounded m-0">Contact Us</a>
 							</div>
 						</div>
 					</div>
 		</div>
 
-		 <!--carousel begin-->
-
-		 <div class="fancy-title title-center title-border">
-						<h3>Gallery</h3>
-					</div>
-
-					<div id="oc-images" class="owl-carousel image-carousel carousel-widget" data-items-xs="2" data-items-sm="3" data-items-lg="4" data-items-xl="5">
-
-						<div class="oc-item">
-							<a href="#"><img src="images/portfolio/4/4-1.jpg" alt="Image 1"></a>
-						</div>
-						<div class="oc-item">
-							<a href="#"><img src="images/portfolio/4/6-1.jpg" alt="Image 2"></a>
-						</div>
-						<div class="oc-item">
-							<a href="#"><img src="images/portfolio/4/6-2.jpg" alt="Image 3"></a>
-						</div>
-						<div class="oc-item">
-							<a href="#"><img src="images/portfolio/4/6-3.jpg" alt="Image 4"></a>
-						</div>
-						<div class="oc-item">
-							<a href="#"><img src="images/portfolio/4/9-1.jpg" alt="Image 5"></a>
-						</div>
-						<div class="oc-item">
-							<a href="#"><img src="images/portfolio/4/9-2.jpg" alt="Image 6"></a>
-						</div>
-						<div class="oc-item">
-							<a href="#"><img src="images/portfolio/4/12-1.jpg" alt="Image 7"></a>
-						</div>
-
-					</div>
-                   
-				 <!--carousel end-->	
+		 	
 
 				 <!--news area start-->
 

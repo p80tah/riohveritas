@@ -10,16 +10,16 @@
 						============================================= -->
 						<div class="top-links on-click">
 							<ul class="top-links-container">
-								<li class="top-links-item"><a href="index.html">Home</a>
+								<li class="top-links-item"><a href="#">Home</a>
 									<ul class="top-links-sub-menu">
-										<li class="top-links-item"><a href="about.html">Riohveritas Exports</a></li>
-										<li class="top-links-item"><a href="faqs.html">Riohveritas Real Estate</a></li>
-										<li class="top-links-item"><a href="contact.html">Riohveritas Laboratories</a></li>
+										<li class="top-links-item"><a href="export.php">Riohveritas Exports</a></li>
+										<li class="top-links-item"><a href="properties.php">Riohveritas Real Estate</a></li>
+										<li class="top-links-item"><a href="lab.php">Riohveritas Laboratories</a></li>
 										<!--<li class="top-links-item"><a href="sitemap.html">Sitemap</a></li>-->
 									</ul>
 								</li>
 								<li class="top-links-item"><a href="#">FAQs</a></li>
-								<li class="top-links-item"><a href="#">Contact</a></li>
+								<li class="top-links-item"><a href="contact.php">Contact</a></li>
 								<!--<li class="top-links-item"><a href="login-register.html">Login</a>
 									<div class="top-links-section">
 										<form id="top-login" autocomplete="off">
@@ -128,13 +128,27 @@
 									<a class="menu-link" href="index.html"><div>HOME</div></a>
 								</li>
 								<li class="menu-item">
-									<a class="menu-link" href="index.html"><div>ABOUT US</div></a>
+									<a class="menu-link" href="about.php"><div>ABOUT US</div></a>
 								</li>
 								<li class="menu-item">
-									<a class="menu-link" href="index.html"><div>GALLARY</div></a>
+									<a class="menu-link" href="#"><div>OUR BUSINESSES</div></a>
+									<ul class="sub-menu-container">
+									    <li class="menu-item">
+											<a class="menu-link" href="export.php"><div>RiohVeritas Exports</div></a>
+										</li>
+										<li class="menu-item">
+											<a class="menu-link" href="lab.php"><div>RiohVeritas Labs and Equipment</div></a>
+										</li>
+										<li class="menu-item">
+											<a class="menu-link" href="properties.php"><div>RiohVeritas Homes and Properties</div></a>
+										</li>
+									</ul>
 								</li>
 								<li class="menu-item">
-									<a class="menu-link" href="index.html"><div>CONTACT US</div></a>
+									<a class="menu-link" href="gallery.php"><div>GALLERY</div></a>
+								</li>
+								<li class="menu-item">
+									<a class="menu-link" href="contact.php"><div>CONTACT US</div></a>
 								</li>
 								<!--<li class="menu-item">
 									<a class="menu-link" href="shop.html"><div>ABOUT US</div></a>

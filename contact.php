@@ -12,11 +12,11 @@
 	?>
 	<!-- Document Title
 	============================================= -->
-	<title>Contact Us|VENTURA ASSOCIATES</title>
+	<title>Contact Us|RIOH-VERITAS</title>
 
 </head>
 
-<body class="stretched overlay-menu">
+<body class="stretched ">
 
 	<!-- Document Wrapper
 	============================================= -->
@@ -24,7 +24,7 @@
 
 		<!-- Header
 		============================================= -->
-        <?php include("include/nav2.php"); ?>
+        <?php include("include/nav.php"); ?>
 
 		<!-- #header end -->
 
@@ -36,7 +36,7 @@
 				<h1>Contact Us</h1>
 				<span>Get in touch with us</span>
 				<ol class="breadcrumb">
-					<li class="breadcrumb-item"><a href="#">Home</a></li>
+					<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 					
 					<li class="breadcrumb-item active" aria-current="page">Contact Us</li>
 				</ol>
@@ -54,80 +54,23 @@
 						<!-- Postcontent
 						============================================= -->
 						<div class="postcontent col-lg-9">
-                            
-
-							<h3>Send us an Email</h3>
-                                <span>(Please fill in all fields)</span>
-							<div class="form-widget">
-
-								<div class="form-result"></div>
-
-								<form class="mb-0" id="template-contactform" name="template-contactform" action="<?php echo $_SERVER['PHP_SELF']; ?>" method="post">
-
-									<div class="form-process">
-										<div class="css3-spinner">
-											<div class="css3-spinner-scaler"></div>
-										</div>
-									</div>
-
-									<div class="row">
-										<div class="col-md-6 form-group">
-											<label for="template-contactform-name">Name <small>*</small></label>
-											<input type="text" id="template-contactform-name" name="name" value="<?php echo isset($_POST ['name']) ? $name : ''; ?>" class="sm-form-control required" />
-										</div>
-
-										<div class="col-md-6 form-group">
-											<label for="template-contactform-email">Email <small>*</small></label>
-											<input type="email" id="template-contactform-email" name="email" value="<?php echo isset($_POST ['email']) ? $email : ''; ?>" class="required email sm-form-control" />
-										</div>
-
-										
-
-										<div class="w-100"></div>
-
-										<div class="col-md-12 form-group">
-											<label for="template-contactform-subject">Subject <small>*</small></label>
-											<input type="text" id="template-contactform-subject" name="subject" value="<?php echo isset($_POST ['subject']) ? $subject : ''; ?>" class="required sm-form-control" />
-										</div>
-
-										
-
-										<div class="w-100"></div>
-
-										<div class="col-12 form-group">
-											<label for="template-contactform-message">Message <small>*</small></label>
-											<textarea class="required sm-form-control" id="template-contactform-message" name="message" rows="10" cols="30"> <?php echo isset($_POST ['message']) ? $message : ''; ?></textarea>
-										</div>
-
-										<div class="col-12 form-group d-none">
-											<input type="text" id="template-contactform-botcheck" name="template-contactform-botcheck" value="" class="sm-form-control" />
-										</div>
-
-										<div class="col-12 form-group">
-											<button class="button button-3d m-0" type="submit" id="template-contactform-submit" name="submit" value="submit">Send Message</button>
-										</div>
-									</div>
-
-									<input type="hidden" name="prefix" value="template-contactform-">
-
-								</form>
-							</div>
-
+						<div class="mapouter"><div class="gmap_canvas"><iframe width="600" height="500" id="gmap_canvas" src="https://maps.google.com/maps?q=Rioh-Veritas%20Lodge%20Plot%205%20Extended%20M.%20Nwosu%20Street%20Adjacent%20Veritas%20University%20Bwari,%20FCT,%20Abuja,%20Nigeria&t=&z=13&ie=UTF8&iwloc=&output=embed" frameborder="0" scrolling="no" marginheight="0" marginwidth="0"></iframe><a href="https://www.whatismyip-address.com/divi-discount/">divi discount</a><br><style>.mapouter{position:relative;text-align:right;height:500px;width:600px;}</style><a href="https://www.embedgooglemap.net">maps embed</a><style>.gmap_canvas {overflow:hidden;background:none!important;height:500px;width:600px;}</style></div></div>
 						</div><!-- .postcontent end -->
 
 						<!-- Sidebar
 						============================================= -->
 						<div class="sidebar col-lg-3">
 
-							<address>
-								<strong>Office Address:</strong><br>
-								3F6, Treshold Business Suites,<br>
-								976, Olusegun Obasanjo Way,<br>
-                                Wuye District, Abuja, FCT.
-							</address>
-							<abbr title="Phone Number"><i class="icon-phone"></i></abbr> +234(0)70 1870 5035<br>
-											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +234(0)80 3255 5881<br>
-											<abbr title="Email Address"><i class="icon-envelope"></i></abbr> info@ventura.ng
+								<address>
+									<strong>Abuja Office Address:</strong><br>
+									Rioh-Veritas Lodge<br>
+									Plot 5 Extended M. Nwosu Street<br>
+									Adjacent Veritas University<br>
+									Bwari, FCT, Abuja, Nigeria
+								</address>
+							<abbr title="Phone Number"><i class="icon-phone"></i></abbr> +234-905-549-3442<br>
+											&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; +234-806-280-4260<br>
+											<abbr title="Email Address"><i class="icon-envelope"></i></abbr> connect@riohveritas.com
 
 							
 

@@ -14,7 +14,7 @@
 
 </head>
 
-<body class="stretched overlay-menu">
+<body class="stretched">
 
 	<!-- Document Wrapper
 	============================================= -->
@@ -22,7 +22,7 @@
 
 		<!-- Header
 		============================================= -->
-        <?php include("include/nav2.php"); ?>
+        <?php include("include/nav.php"); ?>
 
 		<!-- #header end -->
 
