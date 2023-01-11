@@ -28,6 +28,13 @@
                                                 Adjacent Veritas University<br>
 												Bwari, FCT, Abuja, Nigeria
 											</address>
+											<address style="line-height: 1.7;">
+												<strong>Portharcourt Office:</strong><br>
+												No. 34 Harbour Road by Stella Maris College<br>
+												Port Harcourt, Rivers State, Nigeria.<br>
+												
+
+											</address>
 											<abbr title="Phone Number"><i class="icon-phone"></i></abbr> +234-905-549-3442<br>
 											<abbr title="WhatsApp"><i class="icon-whatsapp"></i></abbr> +234-806-280-4260<br>
 											
@@ -45,9 +52,9 @@
 
 										<ul>
 											<li><a href="index.php">Home</a></li>
-											<li><a href="about.php">About us</a></li>
-											<li><a href="#">Gallery</a></li>
-											<li><a href="#">News</a></li>
+											<li><a href="about.php">Contact us</a></li>
+											<li><a href="#">Homes & Properties</a></li>
+											<li><a href="#">Scientific & Laboratories</a></li>
 											<li><a href="export.php">RiohVeritas Exports</a></li>
 											
 											<li><a href="#">Our Team</a></li>
@@ -176,6 +183,8 @@
 	============================================= -->
 	<script src="js/jquery.js"></script>
 	<script src="js/plugins.min.js"></script>
+	<!-- For Countdown -->
+	<script src="js/components/moment.js"></script>
 
 	<!-- Footer Scripts
 	============================================= -->

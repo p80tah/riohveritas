@@ -51,9 +51,9 @@
 					<p>Rioh-Veritas Ng limited is operated with specific mandates under the following sub-divisions:</p>
 					<ol>
 						<li><a href="export.php">Rioh-Veritas Exports</a></li>
-						<li><a href="laboratories.php">Rioh-Veritas Scientific and Laboratories</a></li>
+						<li><a href="lab.php">Rioh-Veritas Scientific and Laboratories</a></li>
 						<li><a href="properties.php">Rioh-Veritas Homes and Properties</a></li>
-						<li><a href="#">Rioh-Veritas Diagnostics</a></li>
+						
 					</ol>
 
 				</div>

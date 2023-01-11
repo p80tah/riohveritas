@@ -22,17 +22,17 @@
 
 		<!-- Header
 		============================================= -->
-        <?php include("include/nav.php"); ?>
+        <?php include("include/navex.php"); ?>
 
 		<!-- #header end -->
 
 		<!-- Page Title
 		============================================= -->
-		<section id="page-title" >
+		<section id="page-title" class="page-title" style="background-color:#780509 ;">
 
-			<div class="container clearfix">
-				<h1>Rioh-Veritas Exports</h1>
-				<span><b>Specialized in the export delivery of top African Agro-based, organic foods</b></span>
+			<div class="container clearfix" style="color: #fff;">
+				<h1 style="color: #fff;">Rioh-Veritas Exports</h1>
+				<span style="color: #fff;"><b>Specialized in the export delivery of top African Agro-based, organic foods</b></span>
 				<ol class="breadcrumb">
 					<li class="breadcrumb-item"><a href="index.php">Home</a></li>
 					
@@ -57,7 +57,7 @@
 						<div class="col-lg-4">
 
 							<div class="heading-block fancy-title border-bottom-0 title-bottom-border">
-								<h4><span>Mission</span>.</h4>
+								<h4 style="color: rgb(241, 5, 5);">Our <span>Mission</span>.</h4>
 							</div>
 
 							<p>To deliver varieties of African agro-based and manufactured products through value-added export services in order to meet the needs of African markets in Diaspora.</p>
@@ -67,7 +67,7 @@
 						<div class="col-lg-4">
 
 							<div class="heading-block fancy-title border-bottom-0 title-bottom-border">
-								<h4><span>Vision</span>.</h4>
+								<h4 style="color: rgb(241, 5, 5);">Our <span>Vision</span>.</h4>
 							</div>
 
 							<p>To be a leading and reliable export firm with sustainable values to meet the needs of the customers.</p>
@@ -77,7 +77,7 @@
 						<div class="col-lg-4">
 
 							<div class="heading-block fancy-title border-bottom-0 title-bottom-border">
-								<h4>Core<span> Values</span>.</h4>
+								<h4 style="color: rgb(241, 5, 5);">Core<span> Values</span>.</h4>
 							</div>
                             <ul>
                                 <li>Truth and Trust</li>
